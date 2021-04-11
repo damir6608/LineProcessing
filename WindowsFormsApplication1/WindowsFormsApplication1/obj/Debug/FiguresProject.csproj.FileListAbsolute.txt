@@ -1,0 +1,85 @@
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormEllipseDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFiguresMainWindow.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormRectangleDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPenSettings.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.GenerateResource.cache
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCircleDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSquareDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csprojAssemblyReference.cache
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeDeleteDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormDeleteAllFiguresDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeMoveToDialog.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeSetNewCoordinates.resources
+C:\Users\Oleg\Desktop\CPP\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormAppInfo.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csprojAssemblyReference.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCircleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormEllipseDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFiguresMainWindow.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormRectangleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeDeleteDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeMoveToDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSquareDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.GenerateResource.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Лабораторная работа №1 ОАиП (семестр 4)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csprojAssemblyReference.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCircleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormEllipseDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFiguresMainWindow.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormRectangleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeDeleteDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeMoveToDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSquareDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.GenerateResource.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Laba_muzhik\Латыпов Дамир Лабораторная работа №1 ОАиП 4232\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csprojAssemblyReference.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCircleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormEllipseDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFiguresMainWindow.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormRectangleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeDeleteDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeMoveToDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSquareDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.GenerateResource.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\заид\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csprojAssemblyReference.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCircleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormEllipseDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFiguresMainWindow.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormRectangleDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeDeleteDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormShapeMoveToDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSquareDialog.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.GenerateResource.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\ОАиП заид\Вторая лаба\Вторая лаба заид\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reference.resources
